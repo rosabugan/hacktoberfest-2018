@@ -1572,6 +1572,8 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 - Software Engineer from PH
 - [![github-alt][github-img]] (https://github.com/rjcapuno)
+### Rosa Bugan
+-Software Engineer from BR
 
 ### Rudrangshu Nandi
 
